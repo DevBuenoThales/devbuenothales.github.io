@@ -1,2 +1,2 @@
-# DevBuenoThales.github.io
+# devbuenothales.github.io
 MDN web project
